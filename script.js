@@ -3,3 +3,18 @@ document.getElementById('textTop').innerText =
 
 document.getElementById('textBox1').innerText =
 	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
+
+document.getElementById('textBox2').innerText =
+	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
+
+document.getElementById('textBox3').innerText =
+	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
+
+document.getElementById('textBox4').innerText =
+	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
+
+document.getElementById('textBox5').innerText =
+	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
+
+document.getElementById('textBox6').innerText =
+	'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.';
