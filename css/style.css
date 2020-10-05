@@ -1,0 +1,32 @@
+body {
+	background-image: url(https://cdn.pixabay.com/photo/2018/01/31/09/57/coffee-3120750_960_720.jpg);
+	background-size: cover;
+}
+
+header {
+	font-family: 'Sansita Swashed', cursive;
+	color: white;
+	font-size: 1.4em;
+	padding: 10px;
+	width: 99%;
+	margin: auto;
+	border-radius: 10px;
+}
+
+header:hover {
+	background-color: rgba(0, 0, 0, 0.726);
+}
+
+nav a {
+	margin-right: 8px;
+	text-decoration: none;
+	color: white;
+}
+
+.flex-display {
+	display: flex;
+}
+
+.justify {
+	justify-content: space-between;
+}
