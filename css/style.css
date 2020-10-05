@@ -24,16 +24,56 @@ nav a {
 	text-decoration: none;
 }
 
+.button {
+	background-color: rgba(255, 255, 255, 0);
+	border: 1px solid black;
+	font-size: 1em;
+	font-family: 'Indie Flower', cursive;
+	color: whitesmoke;
+	height: 30px;
+	width: 10%;
+}
+
+.button:hover {
+	background-color: rgba(255, 0, 0, 0.582);
+}
+
 .flex-display {
 	display: flex;
+}
+
+.flexRow {
+	flex-direction: row;
+	justify-content: space-around;
+	width: 80%;
+}
+
+img {
+	flex: ;
+}
+
+.coluns {
+	background-color: rgb(158, 158, 158);
+	width: 33%;
+	height: 33%;
+	flex-direction: column;
 }
 
 .justify {
 	justify-content: space-between;
 }
 
+.central {
+	align-items: center;
+}
+
 .container-center {
+	align-items: center;
+	color: whitesmoke;
+	font-size: 1.2em;
 	flex-direction: column;
+	font-family: 'Indie Flower', cursive;
 	margin: auto;
 	max-width: 80%;
+	padding: 25px;
 }
